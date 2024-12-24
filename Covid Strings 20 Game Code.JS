@@ -61,14 +61,14 @@ keys object keys(team)
 entries object entries(obj);
 value object= [team color]
 covidstringsteamlist20=[black,burgundy,teal,blue,red,pink,white,yellow]
-covid strings phrase list20=[non-concatenatedBrain Fog Can Even Cause IQ Scores To Drop More Than The Price Of A Pre-Owned Scion IQ
-The Disability Barrier Though Still Causes Problems For Anyone Dealing With Long Covid
-New Research Says That Even Mild Infection Can Be A Risk Factor
-One Warning Though Is That Early Research Is  More Flawed Than Previously Thought
-Another Sign Of Flawed Logic Involves Marjorie Taylor Greens Failed Appeal To The Supreme Court On Mask Mandates
-Something That May Be More Concerning Involves China Using Mice To Deliberately Spread Covid
-The Other Shocking Development Might Involve Fever Not Being Among The Main Symptoms Of Covid
-Telehealth Can Be An Important Tool In Fighting Covid Safely
+covid strings phrase list20=[non-concatenatedbrain fog can even cause iq scores to drop more than the price of a pre-owned scion iq
+the disability barrier though still causes problems for anyone dealing with long covid
+new research says that even mild infection can be a risk factor
+one warning though is that early research is more flawed than previously thought
+another sign of flawed logic involves marjorie taylor greens failed appeal to the supreme court on mask mandates
+something that may be more concerning involves china using mice to deliberately spread covid
+the other shocking development might involve fever not being among the main symptoms of covid
+telehealth can be an important tool in fighting covid safely
 concatenated strings
 corona+nation+can+be+described+as+covids+coronation
 corona+gate+is+one+name+for+a+covid+mismagement+scandal

@@ -15,7 +15,7 @@ second middle seed =seed5
 third lowest seed=seed6
 second lowest seed =seed7
 lowest overall seed =seed8
-Covidstrings TeamList20=[black,burgundy,teal,blue,red,pink,white,yellow]
+covidstrings teamlist20=[black,burgundy,teal,blue,red,pink,white,yellow]
 creatematchup(pink versus teal)
 creatematchup(yellow versus black)
 creatematchup(white versus burgundy)
@@ -28,7 +28,7 @@ for (i in covid strings first round)
 round div=create element
 round div class name=covid strings20 first round
 bracket.appendchild(round div)
-if (event.Ttarget.covid strings seed list.contains(matchup))
+if (event.target.covid strings seed list.contains(matchup))
 event.target.covid strings seed list.toggle
 else:
 addmatchup

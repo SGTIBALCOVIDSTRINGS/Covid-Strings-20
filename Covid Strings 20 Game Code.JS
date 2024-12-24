@@ -25,7 +25,7 @@ public actionperformed(actionevent e)
 random r= newrandom();
 colorpanel.setbackground(new color(rnextint(13)),(rnextint(13)),(rnextint(13)),(rnextint(13)),(rnextint(13)),(rnextint(13))(rnextint(13)), (rnextint(13),(rnextint(13)),(rnextint(13)),(rnextint(13)),(rnextint(13)),(rnextint(13)))
 buttonpanel.add(optionbutton);
-OptionButton.Add actionlistener(new action listener)
+optionbutton.add actionlistener(new action listener)
 override 
 public actionperformed(actionevent e)
 color m=jcolorchooser.showdialog(funwithgraphics.this)

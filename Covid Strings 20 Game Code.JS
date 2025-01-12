@@ -1,22 +1,22 @@
 doc.type.html
 script
-filename=covidstrings20gamecode.js
-java.awt graphics
 this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img) 
+filename=covidstrings20gamecode.js
+java.awt graphics
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
-jbutton random button
-new jbutton (set random color)
+random button
+new button (set random color)
 private final j button option button=
-new j button (change color)
-public fun with graphics(){
-jpanel color panel=new j panel();
-this add (panel,center )
-jpanel button panel=
+new button (change color)
+public fun with graphics()
+color panel=new j panel();
+add (panel,center )
+button panel
 new j panel (flowlayout.center)
 buttonpanel.add(randombutton);
 random.button add actionlistener(new action listener)
@@ -67,24 +67,24 @@ object {a:one,b:two,c:three,d:four,e:five,f:six,g:seven,h:eight}
 keys object keys(team)
 entries object entries(obj);
 value object= [team color]
-covidstringsteamlist20=[black,burgundy,teal,blue,red,pink,white,yellow]
-covid strings phrase list20=[non-concatenatedbrain fog can even cause iq scores to drop more than the price of a pre-owned scion iq
-the disability barrier though still causes problems for anyone dealing with long covid
-new research says that even mild infection can be a risk factor
-one warning though is that early research is more flawed than previously thought
-another sign of flawed logic involves marjorie taylor greens failed appeal to the supreme court on mask mandates
-something that may be more concerning involves china using mice to deliberately spread covid
-the other shocking development might involve fever not being among the main symptoms of covid
-telehealth can be an important tool in fighting covid safely
+covidstringsteamlist20=[black night riders,burgundy rebuilders ,teal terminators,blue curve crushers,red protein spikers,pink covid disease fighters,white transit angels ,yellow moxie]
+covid strings phrase list20=[non-concatenated strings "brain fog can even cause iq scores to drop more than the price of a pre-owned scion iq"
+"the disability barrier though still causes problems for anyone dealing with long covid"
+"new research says that even mild infection can be a risk factor"
+"one warning though is that early research is more flawed than previously thought"
+"another sign of flawed logic involves marjorie taylor greens failed appeal to the supreme court on mask mandates"
+"something that may be more concerning involves china using mice to deliberately spread covid"
+"the other shocking development might involve fever not being among the main symptoms of covid"
+"telehealth can be an important tool in fighting covid safely"
 concatenated strings
-corona+nation+can+be+described+as+covids+coronation
-corona+gate+is+one+name+for+a+covid+mismagement+scandal
-in+the+same+breath+can+be+applied+to+a+lot+of+countries
-much+like+crx+does+not+mean+covid+racing+experience+crv+does+not+mean+covid+recreational+vehicle
-chr+also+does+not+mean+covid+hot+rod
-second+generation+vaccines+can+do+a+lot+more+in+limiting+the+damage
-they+are+still+better+than+antibodies+that+might+stop+covid+forever
-unfourantley+covid+might+not+need+ace2+receptors+to+spread]
+"corona"+"nation"+"can"+"be"+"described"+"as"+"covids"+"coronation"
+"corona"+"gate"+"is"+"one"+"name"+"for"+"a"+"covid"+"mismagement"+"scandal"
+"in"+"the"+"same"+"breath"+"can"+"be"+"applied"+"to"+"a"+"lot"+"of"+"countries"
+"much"+"like"+"crx"+"does"+"not"+"mean"+"covid"+"racing"+"experience"+"crv"+"does"+"not"+"mean"+"covid"+"recreational"+"vehicle"
+"chr"+"also"+"does"+"not"+"mean"+"covid"+"hot"+"rod"
+"second"+"generation"+"vaccines"+"can"+"do"+"a"+"lot"+"more"+"in"+"limiting"+"the"+"damage"
+"they"+"are"+"still"+"better"+"than"+"antibodies"+"that"+"might"+"stop"+"covid"+"forever"
+"unfourantley"+"covid"+"might"+"not"+"need"+"ace2"+"receptors"+"to"+"spread"]
 covid strings20multiplechoicelist=[1:a telehealth b trumps weird habit c abortion telehealth d a debt ceiling deal,2:a coronation b designated survivor c designated santa d anointment,3:a corona b water c mar-a-lago d putin appointing his cousin,4:a ford b lincoln c mercury d scion,5:a snow line b indian condor c disability barrier d ring of fire,6:a mild infection b developing type2 diabetes c trump not being convicted d sending troops to ukraine,7:a in the same boat b in the same breath c a former president being convicted before election day d populists being elected, 
 8:a early research b peer review c polling showing trump losing evangelicals d takata airbags,9:a covid route tree b cvs hoarding prescriptions c noam chomsky d covid racing experience,10:a chr b elr c a1 d a98 chevrolet,11:a fax machines b vaccines c tax returns d russian sanctions,12:a marjorie taylor green b adam schiff c hakeem jefferies d justin amash,13:a tarantulas b mice c the wet bandits from home alone d the wuhan institute of virology,14:a for a season b for24 hours c forever d in a sweep,
 15:a wuhan acid b ace2  c bicentennial firework d yellow pages,16:a mark jensens christmas celebration b fever c being diagnosed with long covid d pollen allergies,17:a patently false b accurate c not the full story d part of americas honesty,18:a melanoma b typhoid c fever d a get out of jail free card]
@@ -134,9 +134,9 @@ if(!new string(arr1).equals(new string(arr2)))
 return false
 for(int i=1; i<s1.length();i++)}
 string s11=s1.substring(0,i)
-strings12=s1.Substring(i,s1.length()-i);
+strings12=s1.substring(i,s1.length()-i);
 string13=s1.substring(i,s1.length()-i());
-strings21=S2.Substring(0,I)
+strings21=S2.substring(0,i)
 string22=s2.substring(0,s2.length()-i);
 string23=s2.substring(0,s2.length()-i ());
 substring(start,end)
@@ -153,7 +153,7 @@ answer checker
 scanner=new scanner(system.in)
 string correct answer
 string useranswer=scanner.nextline()
-if useranswer.equals((correctanswer))
+if useranswer.equals(correctanswer)
 system.out.print.in(correct)
 else:
 system.out.printin(incorrect)
@@ -163,4 +163,8 @@ if winner==true:
 log(the winner is)
 if winner==false:
 log(no winner yet)
+if users team wins covid strings20 
+console log users team wins covid strings20
+else
+return game over
 return filename

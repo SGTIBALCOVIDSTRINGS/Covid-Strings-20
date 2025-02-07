@@ -4,14 +4,14 @@ this.img=document.createelement(covid)
 img.src=http://www.google.com/intl/en_com/images/logo_plain.png
 src=document getelementbyid(header)
 src.appendchild(this.img) 
-filename=covidstrings20gamecode.js
+filename=covidstrings20.js
 java.awt graphics
 <div id=header></div>
 audio=new audio (audio_file mp3)
 audio.play 
 random button
 new button (set random color)
-private final j button option button=
+option button
 new button (change color)
 public fun with graphics()
 color panel=new j panel();
@@ -42,7 +42,7 @@ this.add(buttonpanel,borderlayout.south)
 public static main(string [] args)
 jframe f = new covid strings20()
 f.set title(covid strings20)
-f.set default closeoperation(jframe.exit_on_close);
+f.set default closeoperation(exit_on_close);
 f.setsize
 f.set visible(rrue);
 label id=lblscore>zero</label>

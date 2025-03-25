@@ -1,7 +1,7 @@
 doc.type.html
-<script>
-Filename=Covid Strings 20 Key Words.JS
-Covid Strings20 Key Word List=[Tool In Fighting Covid Safely,Corona Nation Covid Coronation,Covid Mismanagement Scandal,IQ, Long Covid,New Research,Applied To A Lot Of Countries,More Flawed,Crv Covid Recreational Vehicle,Covid Hot Rod,Second Generation,Failed Appeal Mask Mandates,China Spreading Covid,Not Among Main Systems,News Week Article Telehealth,Covid Cant Say]
+script
+filename=covid strings 20 key words.js
+covid Strings20 Key Word List=[Tool In Fighting Covid Safely,Corona Nation Covid Coronation,Covid Mismanagement Scandal,IQ, Long Covid,New Research,Applied To A Lot Of Countries,More Flawed,Crv Covid Recreational Vehicle,Covid Hot Rod,Second Generation,Failed Appeal Mask Mandates,China Spreading Covid,Not Among Main Systems,News Week Article Telehealth,Covid Cant Say]
 String=””
 For String In Covid Strings Search Word List
 Select Characters

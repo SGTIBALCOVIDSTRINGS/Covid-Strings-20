@@ -1,159 +1,168 @@
 doc.type.html
 script
 filename=covid strings 20 key words.js
-covid Strings20 Key Word List=[Tool In Fighting Covid Safely,Corona Nation Covid Coronation,Covid Mismanagement Scandal,IQ, Long Covid,New Research,Applied To A Lot Of Countries,More Flawed,Crv Covid Recreational Vehicle,Covid Hot Rod,Second Generation,Failed Appeal Mask Mandates,China Spreading Covid,Not Among Main Systems,News Week Article Telehealth,Covid Cant Say]
-String=””
-For String In Covid Strings Search Word List
-Select Characters
-Edit Diffuse Property
-Desired Color=Green
-Covid Strings20 Reference List=[A:The Role Of Telehealth During COVID-19 Outbreak:A Systematic Review Based On Current Evidence-PMC (Nih.Gov),Coronation (2020) - IMDB,B:Corona Gate (TV Mini Series 2020) - IMDB,C:Mounting Research Shows That COVID-19 Leaves Its Mark On The Brain,Including With Significant Drops In IQ Scores(Msn.Com),D:Scion IQ - Consumer Reports,E: Long COVID Leaves Newly Disabled People Facing Old Barriers  A Sociologist Explains (Theconversation.Com),F:Long COVID Stemmed From Mild Cases Of COVID-19 In Most People,According To A New Multicountry Study (Theconversation.Com),G:Its Not A Film About A Virus:A Shocking Documentary On Covid Mishandling | Documentary Films | The Guardian,H:Early COVID-19 Research Is Riddled With Poor Methods And Low-Quality Results  A Problem For Science The Pandemic Worsened But Didnt Create (Theconversation.Com),
-I:2024 Honda CR-V / CR-V Hybrid Review, Pricing,And Specs(Caranddriver.Com),J:Toyota C-HR Features And Specs (Caranddriver.Com),K:The Second-Generation COVID Vaccines Are Coming | Scientific American,L:Mask Mandates? Supreme Court Rejects Appeal From Marjorie Taylor Greene, GOP Lawmakers (Msn.Com),M:Illegal California Lab Run By Chinese Biotech Firm Contained Mice Engineered To Spread Covid (Msn.Com),N:Fever No Longer Main Symptom Of Covid -List Of Symptoms To Spot As New Variants Emerge (Msn.Com),O:No, Telehealth Isnt Dead But It Has Some Adjusting To Do (Newsweek.Com),P: Peggy Lee  Fever Lyrics | Genius Lyrics]
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-A=Pc.CreateScript(A);
-A.Attributes.Add(Foobar, {Type:Entity});
-A.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-B=Pc.CreateScript(B);
-B.Attributes.Add(Foobar, {Type:Entity});
-B.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-C=Pc.CreateScript(C);
-C.Attributes.Add(Foobar, {Type:Entity});
-C.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-D=Pc.CreateScript(D);
-D.Attributes.Add(Foobar, {Type:Entity});
-D.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-E=Pc.CreateScript(E);
-E.Attributes.Add(Foobar, {Type:Entity});
-E.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-F=Pc.CreateScript(F);
-F.Attributes.Add(Foobar, {Type:Entity});
-F.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-G=Pc.CreateScript(G);
-G.Attributes.Add(Foobar, {Type:Entity});
-G.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-H=Pc.CreateScript(H);
-H.Attributes.Add(Foobar, {Type:Entity});
-H.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-I=Pc.CreateScript(I);
-I.Attributes.Add(Foobar, {Type:Entity});
-I.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-J=Pc.CreateScript(J);
-J.Attributes.Add(Foobar, {Type:Entity});
-J.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-K=Pc.CreateScript(K);
-K.Attributes.Add(Foobar, {Type:Entity});
-K.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-L=Pc.CreateScript(L);
-L.Attributes.Add(Foobar, {Type:Entity});
-L.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-M=Pc.CreateScript(M);
-M.Attributes.Add(Foobar, {Type:Entity});
-M.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-N=Pc.CreateScript(N);
-N.Attributes.Add(Foobar, {Type:Entity});
-N.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-O=Pc.CreateScript(O);
-O.Attributes.Add(Foobar, {Type:Entity});
-O.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Asset=This App .Assets.Find()
-Template Asset Resource 
-Entity Template Instanite
-Entity Script Foobar =This Entity
-Entity Reparnet (This.Entity)
-P=Pc.CreateScript(P);
-P.Attributes.Add(Foobar, {Type:Entity});
-P.Prototype.Initialize =Function() {
-Console.Log(This.Foobar.Name);
-Return Filename
+covid strings20 key word list=[tool in fighting covid safely,corona nation covid coronation,covid mismanagement scandal,iq,long covid,new research,applied to a lot of countries,more flawed,crv covid recreational vehicle,covid hot rod,second generation,failed appeal mask mandates,china spreading covid,not among main systems,news week article telehealth,covid cant say]
+string=””
+for string in covid strings search word list
+select characters
+edit diffuse property
+desired color=green
+covid strings20 reference list=[a:the role of telehealth during covid-19 outbreak:a systematic review based on current evidence-pmc (nih.gov),b:coronation (2020) -imbd,c:corona gate (tv mini series 2020) - imbd,d:mounting research shows that covid-19 leaves its mark on the brain,including with significant drops in iq scores(msn.com),e:scion iq-consumer reports,f:long covid leaves newly disabled people facing old barriers a sociologist explains (theconversation.com),g:long covid stemmed from mild cases of covid-19 in most people,according to a new multicountry study (theconversation.com),h:its not a film about a virus:a shocking documentary on covid mishandling |documentary films |the guardian,i:early covid-19 research is riddled with poor methods and low-quality results a problem for science the pandemic worsened but didnt create (theconversation.com),
+j:2024 honda cr-v / cr-v hybrid review,pricing,and specs(caranddriver.com),k:toyota c-hr features and specs (caranddriver.com),l:the second-generation covid vaccines are coming |scientific american,m:mask mandates? supreme court rejects appeal from marjorie taylor greene,gop lawmakers (msn.com),n:illegal california lab run by chinese biotech firm contained mice engineered to spread covid (msn.com),o:fever no longer main symptom of covid-list of symptoms to spot as new variants emerge (msn.com),p:no,telehealth isnt dead but it has some adjusting to do (newsweek.com),q:peggy lee fever lyrics |genius lyrics]
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+a=pc.create script(a);
+a.attributes.add(foobar,{type:entity});
+a.prototype.initialize =function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+b=pc.create script(b);
+b.attributes.add(foobar,{type:entity});
+b.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+c=pc.create script(c);
+c.attributes.add(foobar,{type:entity});
+c.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+d=pc.create script(d);
+d.attributes.add(foobar,{type:entity});
+d.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+e=pc.create script(e);
+e.attributes.add(foobar,{type:entity});
+e.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app .assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+f=pc.create script(f);
+f.attributes.add(foobar,{type:entity});
+f.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+g=pc.create script(g);
+g.attributes.add(foobar,{type:entity});
+g.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+h=pc.create script(h);
+h.attributes.add(foobar,{type:entity});
+h.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+i=pc.create script(i);
+i.attributes.add(foobar,{type:entity});
+i.prototype.initialize=function()
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+j=pc.create script(j);
+j.attributes.add(foobar,{type:entity});
+j.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+k=pc.create script(k);
+k.attributes.add(foobar,{type:entity});
+k.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+l=pc.create script(l);
+l.attributes.add(foobar,{type:entity});
+l.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+m=pc.create script(m);
+m.attributes.add(foobar,{type:entity});
+m.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar=this entity
+entity reparnet (this.entity)
+n=pc.create script(n);
+n.attributes.add(foobar,{type:entity});
+n.prototype.initialize =function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+o=pc.create script(o);
+o.attributes.add(foobar,{type:entity});
+o.prototype.initialize =function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+p=pc.create script(p);
+p.attributes.add(foobar,{type:entity});
+p.prototype.initialize=function() 
+console.log(this.foobar.name);
+asset=this app.assets.find()
+template asset resource 
+entity template instantiate
+entity script foobar =this entity
+entity reparnet (this.entity)
+q=pc.create script(q);
+q.attributes.add(foobar,{type:entity});
+q.prototype.initialize=function() 
+console.log(this.foobar.name);
+return filename
 
 
 
